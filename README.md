@@ -86,12 +86,6 @@ Open http://127.0.0.1:5000 in your browser, paste a YouTube URL (e.g., https://w
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome — open an issue or submit a PR.
-
----
-
 ## 📝 License
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
